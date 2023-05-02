@@ -3,7 +3,7 @@
 - I will allow submissions of 4 size categories:
 	- wide, meaning 16:9. The bare minimum for inclusion. You are Wide if the images are at least 428 pixels wide.
 	- wide21 - 21:9 or "Ultrawide". This is my recommended size. You are wide21 eligible if the images are at least 576 pixels wide.
-		- There is a caveat, I will allow pics that are only 560px wide, because most of the existing ultrawide wide content is 560 pixels wide. However, I require all status bars to be at least 576 pixels wide. This is because most 21:9 monitors are not actually a 21:9 aspect ratio but a little bit wider. A status bar of only 560 pixels wide will leave gaps. If you submit 560px wide status bars they will be modified to be 574px.
+		- There is a caveat, I will allow pics that are only 560px wide, because most of the existing ultrawide wide content is 560 pixels wide. However, I require all wide21 status bars to be at least 576 pixels wide. This is because most 21:9 monitors are not actually a 21:9 aspect ratio but a little bit wider. A status bar of only 560 pixels wide will leave gaps. If you submit 560px wide status bars they will be modified to be 574px.
 	- wide32 - 32:9 or "Super Ultrawide". You are wide32 eligible if the images are at least 854 pixels wide. These are super uncommon so I don't really recommend making this but I won't stop you.
 	- widex - "Xtra wide" for status bars wider than 1280 pixels. This pretty much only exists to cover GZDoom's hud scaling. Dont go out of your way to make these.
 		- I wont bother with widex background pics. Only status bars.
