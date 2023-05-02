@@ -14,7 +14,7 @@
 	- I WILL require that any text, logos, signatures, etc. that were in the original 320x200 (4:3) space must remain there and not be removed or moved outside of the original 4:3 space.
 	- You may modify content in the original 320x200 (4:3) space ONLY for the purpose of blending better with the added content to the sides. However, it MUST still look good if cropped back to 4:3!
 - Do not use this as an opportunity to 'improve' the original content. Yes, the Hell Revealed status bar is horiffically garish, etc. But I would like this repository to be as accurate as possible to the original content.
-- I won't maintain multiple 'alternate' versions of graphics, I will choose the one I think is best. The only exceptions will be extreme cases such as JPCP's japanese version HUD. 
+- I won't maintain multiple 'alternate' versions of graphics, I will choose the one I think is best. The only exceptions will be extreme cases such as JPCP's japanese version HUD where the alternate versions were supplied with the wad's original release as an optional addon.
 - If your graphic expands the image by only adding flat black to both sides, do not bother including it. All source ports will do this already to the original graphics.
 - If you are uncomfortable with any of the following situations, don't submit it:
 	- your work hypothetically being included in a re-release of the wad (be it a new idgames update by the original wad's authors, or perhaps ported to console doom's addons)
