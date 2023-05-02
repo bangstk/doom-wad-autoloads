@@ -1,0 +1,4 @@
+Bar: from NightFright's github repo. extended to 21:9 and edited by bangstk
+
+
+NOTE: all graphics are additionally credited to original WAD's authors, as the original graphics are used and extended.
