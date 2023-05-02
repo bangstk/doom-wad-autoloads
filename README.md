@@ -19,7 +19,7 @@ The goal of these enhancements is to remain true to the original content of the 
 These files are designed for modern engine upgrades of Doom, which are called sourceports.
 
 Most modern Doom sourceports, such as Woof!, DSDA-Doom, Crispy Doom, and PrBoom Plus make it easy to use these additions. 
-Simply place the 'autoload' folder from this repository into the source port's directory. Then, when you launch the sourceport with a PWAD, it will automatically autoload all of the content from the autoload folder that matches the PWAD's filename. You do not have to explicitly launch the sourceport with 
+Simply place the 'autoload' folder from this repository into the source port's directory. Then, when you launch the sourceport with a PWAD, it will automatically autoload all of the content from the autoload folder that matches the PWAD's filename. You do not have to explicitly launch the sourceport with the wads from here.
 
 GZDoom does not (yet?) support this feature. You will have to launch GZDoom explicitly with the appropriate files for the PWAD you want to play.
 
