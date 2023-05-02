@@ -19,6 +19,7 @@
 - If you are uncomfortable with any of the following situations, don't submit it:
 	- your work hypothetically being included in a re-release of the wad (be it a new idgames update by the original wad's authors, or perhaps ported to console doom's addons)
 	- your work hypothetically being used as a base for other widescreen graphics submissions
+	- your work hypothetically being bundled with a popular sourceport
 	- you submit multiple graphics for the same wad but would be upset if not all of your graphics are used and some are picked from a different submission
   - your work potentially being modified after submission, such as to extend 560px content to 576px, or wide content being extended to uwide.
 - Attribution is required. If you base any work off of any graphics other than from the original WAD, please specify the original authors and/or sources so that they may be correctly credited.
