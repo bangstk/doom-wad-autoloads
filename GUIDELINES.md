@@ -24,7 +24,7 @@
   - your work potentially being modified after submission, such as to extend 560px content to 576px, or wide content being extended to uwide.
 - Attribution is required. If you base any work off of any graphics other than from the original WAD, please specify the original authors and/or sources so that they may be correctly credited.
 	- This means don't submit something you found on a forum or other repository unless you're sure of who made it, and you have reasonable belief that they would be OK with their work being used, modified, or submitted.
-- Please do not submit a hundred wads at once. Keep submission batches small, such as mayvbe 5-10 max, so that all content may be properly reviewed.
+- Please do not submit a hundred wads at once. Keep submission batches small, such as maybe 5-10 max, so that all content may be properly reviewed.
 
 
 ## Contribution Suggestions
