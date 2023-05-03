@@ -1,4 +1,4 @@
-Bar: bangstk
+Bar: Official eviternity xtra wide statusbar by Dragonfly. Extracted from eviternity.wad.
 Mapdefs: UMAPINFO by rfomin on Doomworld forums
 		Map26 UMAPINFO errors fixed by bangstk
 Pics: Terraformer9x on Doomworld forums 
