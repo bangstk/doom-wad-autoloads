@@ -1,0 +1,5 @@
+Bar: bangstk, inspired by (but not a modification of) the Unity port wide bar
+Pics: Fixed widescreen SSG first person sprite from Nash Muhandes' WidePix
+
+
+NOTE: all graphics are additionally credited to original WAD's authors, as the original graphics are used and extended.

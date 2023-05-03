@@ -1,8 +1,6 @@
-Bar: from NightFright's github repo. extended to 21:9 and edited by bangstk
+Bar: from NightFright's github repo. slightly extended by bangstk to be 576 px
 Mapdefs: UMAPINFO by rfomin from Doomworld forums
 		bangstk - fixed doom 2 secret level story text appearing
 Pics: Quill from Doomworld forums
-		Some episode title & level name graphics modified by bangstk to fit in 4:3
-
 
 NOTE: all graphics are additionally credited to original WAD's authors, as the original graphics are used and extended.

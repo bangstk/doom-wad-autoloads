@@ -1,4 +1,5 @@
 Bar: bangstk
+Pics: Terraformer9x on Doomworld forums 
 
 
 NOTE: all graphics are additionally credited to original WAD's authors, as the original graphics are used and extended.

@@ -1,4 +1,0 @@
-Bar: bangstk
-
-
-NOTE: all graphics are additionally implied to also be credited to original WAD's authors.
