@@ -1,7 +1,7 @@
 # Goal of Repository
 
 This repository holds a collection of files which contain the following enhancements for community-made classic Doom addon levelsets, which are known as PWADS:
-- Widescreen graphics for menus and title screens (ex: wadnamehere_pics_wide21.wad)
+- Widescreen graphics for menus and title screens, as well as first person weapon sprites if needed (ex: wadnamehere_pics_wide21.wad)
 - Widescreen graphics for the status bar HUD (ex: wadnamehere_bar_wide32.wad)
 - UMAPINFO and/or DEHACKED definitions to define level names for automap and episode definitions and more, for WADs that did not use DEHACKED for this. (ex: wadnamehere_mapinfo.wad)
 - In rare cases, compatability aids if the original /idgames release is too difficult for the average user to apply to a modern sourceport. (ex: wadnamehere_compat.wad)
