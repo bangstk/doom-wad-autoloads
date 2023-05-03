@@ -25,7 +25,10 @@
 - Attribution is required. If you base any work off of any graphics other than from the original WAD, please specify the original authors and/or sources so that they may be correctly credited.
 	- This means don't submit something you found on a forum or other repository unless you're sure of who made it, and you have reasonable belief that they would be OK with their work being used, modified, or submitted.
 - Please do not submit a hundred wads at once. Keep submission batches small, such as maybe 5-10 max, so that all content may be properly reviewed.
-- If you are adding a UMAPINFO to define level names, please also add a DEHACKED to the same WAD that also defines level names. This will allow Crispy Doom to have level names since Crispy does not support UMAPINFO.
+- Map defs: If the WAD will run in Crispy Doom, please use Dehacked to add level names/story text. If not, you can use just UMAPINFO.
+	- If you submit a UMAPINFO, please test to make sure all secret exits work correctly. Essentially if you define a level in UMAPINFO, you must explicitly add its 'nextsecret' property even if it was MAP15.
+- Story text: If a WAD uses doom 2's default story text when it shouldn't, and the WAD is Boom-only, you can remove these text screens entirely with a UMAPINFO.
+	- If the WAD is crispy doom compatible, it would be better to instead come up with suitable story text in DEHACKED to replace the Doom 2 story text with.
 
 
 ## Contribution Suggestions
