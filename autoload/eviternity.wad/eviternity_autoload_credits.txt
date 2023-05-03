@@ -1,4 +1,6 @@
 Bar: bangstk
+Mapdefs: UMAPINFO by rfomin on Doomworld forums
+		Map26 UMAPINFO errors fixed by bangstk
 Pics: Terraformer9x on Doomworld forums 
 
 
