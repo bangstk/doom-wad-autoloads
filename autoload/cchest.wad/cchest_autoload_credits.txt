@@ -1,0 +1,5 @@
+Bar: bangstk - used the duke3d graphics that the wad's original stbar was made from
+Mapdefs: ported from the MAPINFO in the wad to DEHACKED by bangstk
+
+
+NOTE: all graphics are additionally credited to original WAD's authors, as the original graphics are used and extended.
