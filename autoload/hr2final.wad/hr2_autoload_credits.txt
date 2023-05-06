@@ -1,4 +1,5 @@
 Bar: Terraformer9x from Doomworld forums, extended to 21:9 by bangstk
+Mapdefs: DEHACKED level names by rfomin
 Pics: Terraformer9x from Doomworld forums
 
 
