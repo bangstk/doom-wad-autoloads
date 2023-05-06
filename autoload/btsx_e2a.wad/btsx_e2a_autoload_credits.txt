@@ -1,5 +1,6 @@
-Bar: From NightFright's github repo. Modified by bangstk to fix incorrect palette conversion.
+Bar: From NightFright's github repo. Modified by bangstk to fix incorrect palette conversion. Edited by bangstk
 Pics: OpenRift from Doomworld forums
+		Expanded to 21:9 by bangstk
 
 
 NOTE: all graphics are additionally credited to original WAD's authors, as the original graphics are used and extended.
