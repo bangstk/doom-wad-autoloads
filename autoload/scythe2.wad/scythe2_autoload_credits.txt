@@ -1,9 +1,9 @@
-Bar: From NightFright's github repo,
-		Right side edited by bangstk for better continuity
-Mapdefs: Stripped down version of rfomin's UMAPINFO from Doomworld forums which used OpenRift's episode names ideas. 
-		Level names moved to DEHACKED for Crispy Doom compat. 
-		Story text added by bangstk.
+Bar: From NightFright's github repo, right side edited by bangstk for better continuity
+Mapdefs: DEHACKED level names converted from rfomin's UMAPINFO
 Pics: Terraformer9x on Doomworld forums
 
+Enhancements:
+	Story text added by bangstk.
+	Episode definitions by rfomin (name ideas from OpenRift)
 
 NOTE: all graphics are additionally credited to original WAD's authors, as the original graphics are used and extended.
