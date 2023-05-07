@@ -1,0 +1,6 @@
+Bar: From Nightfright's github repo, slight extension to 576px by bangstk
+Mapdefs: Ported from Miguel Folatelli's original AV.DEH, level names unabbreviated by bangstk
+Pics: Terraformer9x on Doomworld forums
+
+
+NOTE: all graphics are additionally credited to original WAD's authors, as the original graphics are used and extended.
