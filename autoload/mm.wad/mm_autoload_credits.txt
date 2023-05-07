@@ -2,7 +2,7 @@ Mapdefs: rfomin's DEHACKED levelnames
 Pics: Terraformer9x on Doomworld forums
 
 Enhancements:
-	TITLEPIC adapted from INTERPIC - by bangstk
+	TITLEPIC - adapted from Memento Mori infopack - by Arsinikk
 	Replace Doom 2 Story Text with Generic - by bangstk
 
 
