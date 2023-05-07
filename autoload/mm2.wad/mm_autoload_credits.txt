@@ -3,7 +3,7 @@ Mapdefs: rfomin's DEHACKED levelnames
 Pics: Terraformer9x on Doomworld forums
 
 Enhancements:
-	Doom 2 Story Text Removal UMAPINFO - by bangstk
+	Story Text based on briefings in MM2.TXT - by bangstk
 
 
 NOTE: all graphics are additionally credited to original WAD's authors, as the original graphics are used and extended.
