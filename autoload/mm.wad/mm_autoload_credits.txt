@@ -3,7 +3,7 @@ Pics: Terraformer9x on Doomworld forums
 
 Enhancements:
 	TITLEPIC adapted from INTERPIC - by bangstk
-	Doom 2 Story Text Removal UMAPINFo - by bangstk
+	Replace Doom 2 Story Text with Generic - by bangstk
 
 
 NOTE: all graphics are additionally credited to original WAD's authors, as the original graphics are used and extended.
