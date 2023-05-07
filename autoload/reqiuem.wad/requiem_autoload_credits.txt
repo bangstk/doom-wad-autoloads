@@ -2,5 +2,8 @@ Bar: Terraformer9x on Doomworld Forums. extended to 21:9 and edited by bangstk
 Mapdefs: DEHACKED level names from rfomin
 Pics: Terraformer9x on Doomworld Forums
 
+Enhancements:
+	Replace Doom 2 Story Text with Generic - by bangstk
+
 
 NOTE: all graphics are additionally credited to original WAD's authors, as the original graphics are used and extended.
