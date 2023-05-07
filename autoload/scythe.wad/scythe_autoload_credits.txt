@@ -1,0 +1,11 @@
+Pics: INTERPIC by rfomin, TITLEPIC by Arsinikk 
+Mapdefs: DEHACKED level names by rfomin
+
+Enhancements:
+	Episode Selection via UMAPINFO - by bangstk
+	TITLEPIC as BOSSBACK (since no icon of sin wall in this WAD) - by bangstk
+	Replace Doom 2 Story Text with Generic - by bangstk
+
+
+NOTE: all graphics are additionally credited to original WAD's authors, as the original graphics are used and extended.
+	
