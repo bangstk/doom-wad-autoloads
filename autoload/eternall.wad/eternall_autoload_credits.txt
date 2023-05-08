@@ -1,9 +1,10 @@
 Bar: From NightFright's github repo. Minor extension to 576px by bangstk 
-Mapdefs: DEHACKED level names/story texy by Rich Nagel
+Mapdefs: DEHACKED level names/story text by Rich Nagel
 Pics: Terraformer9x from Doomworld Forums
 
 Enhancements:
 	Episode selection UMAPINFO - bangstk
+	BOSSBACK copied from CREDIT - bangstk/Terraformer9x
 
 
 NOTE: all graphics are additionally credited to original WAD's authors, as the original graphics are used and extended.
