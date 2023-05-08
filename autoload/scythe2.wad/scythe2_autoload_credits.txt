@@ -1,4 +1,5 @@
-Bar: From NightFright's github repo, right side edited by bangstk for better continuity
+Bar: Nightfright from zdoom forums/github. Extended to 21:9 by ragu from zdoom forums. 
+	Right side remade for better match w/ 4:3 area & slight extension to 576px by bangstk
 Mapdefs: DEHACKED level names converted from rfomin's UMAPINFO
 Pics: Terraformer9x on Doomworld forums
 

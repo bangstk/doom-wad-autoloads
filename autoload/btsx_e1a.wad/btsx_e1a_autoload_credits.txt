@@ -1,4 +1,5 @@
-Bar: From NightFright's github repo. Modified by bangstk to fix incorrect palette conversion, edges edited by bangstk
+Bar: Nightfright from zdoom forums/github. Extended to 21:9 by ragu from zdoom forums. 
+		Incorrect palette conversion fixed & slight extension to 576px by bangstk
 Pics: OpenRift from Doomworld forums
 		Extended to 21:9 by bangstk
 

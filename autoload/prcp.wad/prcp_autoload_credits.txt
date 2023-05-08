@@ -1,4 +1,4 @@
-Bar: From NightFright's github repo. Minor extension to 576px by bangstk 
+Bar: Nightfright from zdoom forums/github. Extended to 21:9 by ragu from zdoom forums. Slight extension to 576px by bangstk.
 Pics: Terraformer9x from Doomworld forums
 	
 	
