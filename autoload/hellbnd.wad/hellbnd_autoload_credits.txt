@@ -1,0 +1,5 @@
+Bar: Nightfright from zdoom forums/github. Extended to 21:9 by ragu from zdoom forums. 
+	Slight extension to 576px & removed lights from side parts to reduce distractions - bangstk
+Pics: wide21 pics by Quill from Doomworld forums
+
+NOTE: all graphics are additionally credited to original WAD's authors, as the original graphics are used and extended.
