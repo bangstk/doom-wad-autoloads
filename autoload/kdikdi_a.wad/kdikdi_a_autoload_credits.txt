@@ -1,0 +1,5 @@
+Bar: wide21 bar by bangstk (converted from bangstk doom-all bar)
+Pics: wide21 pics by bangstk
+	INTERPIC palette converted from Nash's WidePix Doom 1 Ep1 intermission pic
+	
+NOTE: all graphics are additionally credited to original WAD's authors, as the original graphics are used and extended.
