@@ -1,0 +1,7 @@
+Mapdefs: UMAPINFO to end game after MAP05 - bangstk
+Pics: TITLEPIC by Forgotten on Doomworld forums
+		Corrected color error in TITLEPIC - bangstk
+		INTERPIC extended using Doom 1 Ep2 interpic from Nash's WidePix - bangstk
+	
+
+NOTE: all graphics are additionally credited to original WAD's authors, as the original graphics are used and extended.
