@@ -1,3 +1,7 @@
 Pics: wide21 pics by Terraformer9x from Doomworld Forums
 
+Enhancements:
+	M_EPI1-M_EPI4 to discern new content from stock Doom eps - bangstk
+	UMAPINFO that removes Ep 4 (unless UDTWID w/ its enhancement UMAPINFO is loaded) - bangstk
+
 NOTE: all graphics are additionally credited to original WAD's authors, as the original graphics are used and extended.
