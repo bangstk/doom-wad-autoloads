@@ -1,0 +1,8 @@
+Mapdefs: UMAPINFO by rfomin
+		Endpic tweaks by bangstk
+Pics: wide21 pics by Terraformer9x from Doomworld Forums
+
+Enhancements:
+	Rename EP1-EP4 to discern from stock Doom content - bangstk
+
+NOTE: all graphics are additionally credited to original WAD's authors, as the original graphics are used and extended.
