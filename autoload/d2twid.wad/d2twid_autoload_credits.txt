@@ -1,0 +1,9 @@
+Mapdefs: UMAPINFO to define MAP33 stuff by bangstk
+Pics: Terraformer9x from Doomworld forums
+
+Enhancements:
+		TITLEPIC and BOSSBACK which were made for D2TWID by the D1TWID artist Kracov from Deviantart
+				Extended to 21:9 by Terraformer9x
+		Episode Select to select bonus level MAP33 from menu - bangstk
+		
+NOTE: all graphics are additionally credited to original WAD's authors, as the original graphics are used and extended.
