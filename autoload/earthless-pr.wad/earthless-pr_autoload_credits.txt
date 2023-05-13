@@ -1,0 +1,8 @@
+Pics: 16:9 pics by Firebert from Doomworld Forums
+	extended to 21:9 by bangstk
+	
+Enhancements:
+	Episode definitions UMAPINFO - bangstk
+	OPTIONS/COMPLVL lumps to make death exits work in DSDA/Woof - bangstk
+	
+NOTE: all graphics are additionally credited to original WAD's authors, as the original graphics are used and extended.
