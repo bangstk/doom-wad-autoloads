@@ -1,0 +1,5 @@
+Bar: wide21 bar by bangstk - used Doom stock marble textures to extend sides
+Pics: wide21 pics by bangstk
+	INTERPIC extended using photo of Horsehead Nebula by "Stephanh" on Wikipedia (CC BY-SA 4.0)
+
+NOTE: all graphics are additionally credited to original WAD's authors, as the original graphics are used and extended.
