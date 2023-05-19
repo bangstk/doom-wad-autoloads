@@ -1,0 +1,6 @@
+Bar: 21:9 bar by bangstk (Copy of sunlust bar)
+
+Enhancements:
+	UMAPINFO for bonus level select & end game after MAP03 - bangstk
+
+NOTE: all graphics are additionally credited to original WAD's authors, as the original graphics are used and extended.
