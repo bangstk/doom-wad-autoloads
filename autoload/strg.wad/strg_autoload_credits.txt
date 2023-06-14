@@ -1,4 +1,8 @@
 Bar: Firebert on Doomworld forums, extended to 21:9 by bangstk
 
+Enhancements:
+	-Episode selection + MAP33 selection UMAPINFO & menu graphics - bangstk
+	-More suitable selection of story text backdrops via DEHACKED - bangstk
+
 
 NOTE: all graphics are additionally credited to original WAD's authors, as the original graphics are used and extended.
