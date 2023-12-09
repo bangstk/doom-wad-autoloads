@@ -1,6 +1,7 @@
 Bar: from NightFright's github repo. extended to 21:9 and edited by bangstk
 Mapdefs: UMAPINFO by rfomin from Doomworld forums
 		bangstk - fixed doom 2 secret level story text appearing
+		bangstk - make moon levels use tall version of its sky texture
 Pics: Quill from Doomworld forums
 		Some episode title & level name graphics modified by bangstk to fit in 4:3
 
