@@ -2,6 +2,7 @@ Bar: Official eviternity xtra wide statusbar by Dragonfly. Extracted from eviter
 Mapdefs: UMAPINFO by rfomin on Doomworld forums
 		Map26 UMAPINFO errors fixed by bangstk
 Pics: Terraformer9x on Doomworld forums 
-
+Enhancements: 
+	-Pistol graphics from Eviternity 2 (to denote to player that it acts differently from vanilla) by Eviternity 2 Art Team
 
 NOTE: all graphics are additionally credited to original WAD's authors, as the original graphics are used and extended.
